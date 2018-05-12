@@ -1,0 +1,48 @@
+_repo: De-Mortuis-Nil-Nisi-BonaBeing-a-Series-of-Problems-in-Executorship-Law-and-Accounts_41888
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Ranking, Devey Fearon de l'Hoste
+    aliases:
+    - De l'Hoste Ranking, Devey Fearon
+    - L'Hoste Ranking, Devey Fearon de
+    - Ranking, D. F. de l'Hoste (Devey Fearon de l'Hoste)
+    birthdate: 1847
+    deathdate: 1931
+    gutenberg_agent_id: '41414'
+    url: http://www.gutenberg.org/2009/agents/41414
+  illustrator:
+    agent_name: Reed, Edward Tennyson
+    alias: Reed, E. T. (Edward Tennyson)
+    birthdate: 1860
+    deathdate: 1933
+    gutenberg_agent_id: '37406'
+    url: http://www.gutenberg.org/2009/agents/37406
+covers:
+- cover_type: archival
+  image_path: 41888-h/images/cover.png
+creator:
+  authors:
+  - agent_name: Spicer, Ernest Evan
+    gutenberg_agent_id: '41412'
+    url: http://www.gutenberg.org/2009/agents/41412
+  - agent_name: Pegler, Ernest Charles
+    gutenberg_agent_id: '41413'
+    url: http://www.gutenberg.org/2009/agents/41413
+description: ''
+gutenberg_issued: '2013-01-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41888'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'KD'
+- !lcsh 'Decedents'' estates -- Great Britain'
+- !lcsh 'Executors and administrators -- Great Britain'
+title: 'De Mortuis Nil Nisi Bona
+
+  Being a Series of Problems in Executorship Law and Accounts'
+url: http://www.gutenberg.org/ebooks/41888
